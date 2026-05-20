@@ -23,6 +23,8 @@ Provisioned new user accounts in the organization.
 </p>
 <p>
 User transferred from the IT department to the HR department. Updated job role and access assignments to reflect the user’s new responsibilities.
+
+  During the department transfer, user roles and group memberships were updated to align with HR responsibilities while maintaining the assigned P2 license.
 </p>
 <br />
 <h2>Leaver</h2>
