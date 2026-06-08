@@ -2,7 +2,7 @@
 <br /><img width="470" height="305" alt="microsoft entra ID logo" src="https://github.com/user-attachments/assets/75489e40-d941-4ebd-87ca-582dda589fa2" />
 </p>
 <h1>Identity Lifecycle Management - Joiner, Mover, Leaver (Azure)</h1>
-This tutorial outlines the Joiner, Mover, and Leaver (JML) identity lifecycle process for user accounts in Microsoft Entra ID.<br />
+This lab outlines the Joiner, Mover, and Leaver (JML) identity lifecycle process for user accounts in Microsoft Entra ID.<br />
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure Entra ID
 <h2>Operating Systems Used </h2>
